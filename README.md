@@ -1,5 +1,9 @@
-Kit
-====
+<p align="center">
+  <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7042cd33-6cde-4095-a2b3-42d0aabfce74" /> <br>
+</p>
+
+----
+
 Kit - High level interpreted programming language. <br>
 Progress:
 - [X] Lexer
