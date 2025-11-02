@@ -4,7 +4,7 @@
 
 ----
 
-Kit - High level interpreted programming language. <br>
+Kit - High level General purpose Object Oriented programming language. <br>
 Progress:
 - [X] Lexer
 - [X] Tokenizer
@@ -14,4 +14,4 @@ Progress:
 ----
 
 <img width="226" height="203" alt="image" src="https://github.com/user-attachments/assets/ec1c099f-4d8b-40d7-a47e-cc4f81cf3dac" /> <br>
-*This is tokenizer work (There is used this code: let x : num = 8)*
+*This is how tokenizer work (There is been used this code: let x : num = 8)*
